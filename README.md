@@ -1,8 +1,9 @@
 # Земцов Евгений Анатольевич
  г. Москва\
  Телефон: +7 *** *** **** \
+ telegram: https://t.me/ezmts
  e-mail: <evan77@bk.ru>  
- telegram: https://t.me/ezmts 
+  
  ![фото](images/foto_res.png)
  
  
