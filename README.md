@@ -2,6 +2,7 @@
  г. Москва\
  Телефон: +7 *** *** **** \
  telegram: https://t.me/ezmts
+ 
  e-mail: <evan77@bk.ru>  
   
  ![фото](images/foto_res.png)
